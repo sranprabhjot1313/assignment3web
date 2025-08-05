@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "First Post",
+    "category": "Tech",
+    "content": "Vue 3 is awesome!",
+    "author": "Prabhjot",
+    "date": "2025-08-01"
+  },
+  {
+    "id": 2,
+    "title": "Trip to Banff",
+    "category": "Travel",
+    "content": "Mountains were beautiful.",
+    "author": "Anamol",
+    "date": "2025-08-02"
+  },
+  {
+    "id": 3,
+    "title": "Delicious Paneer Tikka",
+    "category": "Food",
+    "content": "Grilled to perfection with spicy marinade.",
+    "author": "Prabhjot",
+    "date": "2025-08-03"
+  },
+  {
+    "id": 4,
+    "title": "Street Food in Delhi",
+    "category": "Food",
+    "content": "Try chaat, golgappe, and aloo tikki!",
+    "author": "Anamol",
+    "date": "2025-08-04"
+  }
+]
